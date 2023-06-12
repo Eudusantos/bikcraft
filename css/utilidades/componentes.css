@@ -60,7 +60,7 @@
 
 /* titulos internos*/
 
-titulo-bg {
+.titulo-bg {
     padding-top: 60px;
     padding-bottom: 60px;
     background-color: var(--cor-11);
@@ -71,7 +71,7 @@ titulo-bg {
 }
 
 @media (max-width: 800px) {
-    .titulo-ng {
+    .titulo-bg {
         padding-top: 40px;
         padding-bottom: 40px;
     }
